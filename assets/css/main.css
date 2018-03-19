@@ -13,7 +13,7 @@ body {
   margin-bottom: 1em;
   background-color: #DC0A2D;
   border-radius: 6px;
-  margin-top: 3.5em;
+  margin-top: 3.1em;
 }
 .btn-blue {
   margin-top: 1em;
@@ -54,7 +54,7 @@ margin: 1em;
   padding-top: 1em;
 }
 #pokeInput {
-  width: inherit;
+  width: 100%;
   border: none;
   background-color: #51AE5F;
   border-radius: 6px;
