@@ -1,5 +1,5 @@
 # Pokemon Pokedex
-================
+
 Encuentra tus pokemon favoritos!!!
 
 ### Vista previa
@@ -8,5 +8,5 @@ Encuentra tus pokemon favoritos!!!
 
 
 ## Desarrollado para [Laboratoria](http://laboratoria.la)
--------------------------------------------
+
 ###### version 2.0.0
