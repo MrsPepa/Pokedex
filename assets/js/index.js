@@ -78,6 +78,7 @@ $('#btn-search').click(function(){
       const description = data.flavor_text_entries[3].flavor_text;
       $('.descripcion').empty();
       $('.descripcion').append(`<p class="description">${description}</p>`);
+      $('#pokeInfo').empty();
       $('#pokeInfo').append(`<div class="col-md-6 col-lg-6 hidden-xs hidden-sm"><p class="description">${description}</p></div>`);
     }
 
